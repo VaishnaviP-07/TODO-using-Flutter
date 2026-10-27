@@ -1,17 +1,20 @@
-# todolist
+# Todo App
 
-A new Flutter project.
+A simple and elegant todo app to help you plan your day and stay organized.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clean and easy-to-use interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- [Flutter / HTML, CSS, JavaScript / React: whichever you used]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+1. Clone this repository
+2. Open the project folder
+3. Run the app using your IDE or terminal
